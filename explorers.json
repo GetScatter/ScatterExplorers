@@ -5,8 +5,34 @@
       "account":"https://bloks.io/account/{x}",
       "transaction":"https://bloks.io/transaction/{x}",
       "block":"https://bloks.io/block/{x}"
+    },
+    {
+      "name":"EOS Flare",
+      "account":"https://eosflare.io/account/{x}",
+      "transaction":"https://eosflare.io/tx/{x}",
+      "block":"https://eosflare.io/block/{x}"
+    },
+    {
+      "name":"EOS Park",
+      "account":"https://eospark.com/MainNet/account/{x}",
+      "transaction":"https://eospark.com/MainNet/tx/{x}",
+      "block":"https://eospark.com/MainNet/block/{x}"
     }
   ],
-  "Ethereum":[],
-  "Tron":[]
+  "Ethereum":[
+    {
+      "name":"Etherscan",
+      "account":"https://etherscan.io/address/{x}",
+      "transaction":"https://etherscan.io/tx/{x}",
+      "block":"https://etherscan.io/block/{x}"
+    }
+  ],
+  "Tron":[
+    {
+      "name":"Tronscan",
+      "account":"https://tronscan.org/#/address/{x}",
+      "transaction":"https://tronscan.org/#/transaction/{x}",
+      "block":"https://tronscan.org/#/block/{x}"
+    }
+  ]
 }
