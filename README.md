@@ -24,5 +24,5 @@ A repository of explorers for use within Scatter
   "account":"https://bloks.io/account/{x}",
   "transaction":"https://bloks.io/transaction/{x}",
   "block":"https://bloks.io/block/{x}"
-},
+}
 ```
