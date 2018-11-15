@@ -1,7 +1,7 @@
 # ScatterExplorers
 A repository of explorers for use within Scatter
 
-### Adding new explorers
+## Adding new explorers
 
 - Create a pull request adding your explorer to the correct blockchain in the "explorers.json" file. 
 - **Fill out all of the fields, they are all required.**
