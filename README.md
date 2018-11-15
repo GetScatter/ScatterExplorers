@@ -16,7 +16,7 @@ A repository of explorers for use within Scatter
 
 **A note about the links** - All links must be suffixed with `/{x}` in order to be parsed correctly inside of Scatter.
 
-#### Example Entry
+## Example Entry
 
 ```
 {
