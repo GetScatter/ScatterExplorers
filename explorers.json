@@ -2,9 +2,9 @@
   "EOSIO":[
     {
       "name":"Bloks",
-      "account":"https://bloks.io/account/{account}",
-      "transaction":"https://bloks.io/transaction/{id}",
-      "block":"https://bloks.io/block/${id}"
+      "account":"https://bloks.io/account/{x}",
+      "transaction":"https://bloks.io/transaction/{x}",
+      "block":"https://bloks.io/block/{x}"
     }
   ],
   "Ethereum":[],
