@@ -14,9 +14,9 @@
     },
     {
       "name":"EOS Park",
-      "account":"https://eospark.com/MainNet/account/{x}",
-      "transaction":"https://eospark.com/MainNet/tx/{x}",
-      "block":"https://eospark.com/MainNet/block/{x}"
+      "account":"https://eospark.com/account/{x}",
+      "transaction":"https://eospark.com/tx/{x}",
+      "block":"https://eospark.com/block/{x}"
     }
   ],
   "Ethereum":[
