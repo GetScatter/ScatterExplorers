@@ -1,6 +1,12 @@
 {
   "EOSIO":[
     {
+      "name":"EOSX",
+      "account":"https://www.eosx.io/account/{x}",
+      "transaction":"https://www.eosx.io/tx/{x}",
+      "block":"https://www.eosx.io/block/{x}"
+    },
+    {
       "name":"eosq",
       "account":"https://eosq.app/account/{x}",
       "transaction":"https://eosq.app/tx/{x}",
