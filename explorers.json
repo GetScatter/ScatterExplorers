@@ -46,5 +46,13 @@
       "transaction":"https://tronscan.org/#/transaction/{x}",
       "block":"https://tronscan.org/#/block/{x}"
     }
+  ],
+  "Bitcoin":[
+    {
+	    "name":"Blockcypher",
+	    "account":"https://live.blockcypher.com/btc/address/{x}",
+	    "transaction":"https://live.blockcypher.com/btc/tx/{x}",
+	    "block":"https://live.blockcypher.com/btc/block/{x}"
+    }
   ]
 }
