@@ -29,6 +29,12 @@
       "account":"https://eospark.com/account/{x}",
       "transaction":"https://eospark.com/tx/{x}",
       "block":"https://eospark.com/block/{x}"
+    },
+    {
+      "name":"EOS Authority",
+      "account":"https://eosauthority.com/account/{x}",
+      "transaction":"https://eosauthority.com/transaction/{x}",
+      "block":"https://eosauthority.com/block/{x}"
     }
   ],
   "Ethereum":[
